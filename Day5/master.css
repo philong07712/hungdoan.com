@@ -1,0 +1,30 @@
+.foo {
+    border-style: solid;
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    padding: 50px;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.blue {
+    background-color: blue;
+}
+.black {
+    background-color: rgb(3, 3, 3);
+}
+.red {
+    background-color: rgb(255, 0, 0);
+}
+
+.practice {
+    display: table;
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    text-align:: center;
+    margin: 0 0 0 300px;
+    padding: 500px;
+    background-color: rgb(255, 255, 255);
+}
